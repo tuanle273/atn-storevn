@@ -14,6 +14,7 @@ if(isset($_POST['submit'])&&!empty($_POST['submit'])){
 	$login_check = pg_num_rows($data);  
 	if($login_check == 1){
 	$row = pg_fetch_array($data, 0);
+  
 	$shop = $row['shop_name'];
 	if($shop == "DIRECTOR"){
 	 echo "Login Successfully"; 
