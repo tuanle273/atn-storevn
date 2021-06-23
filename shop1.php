@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.72.0">
-    <title>ATN SHOP</title>
+    <title>ATN SHOP </title>
 	<link rel = "icon" type = "image/png" href = "https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif">
     <link rel="canonical" href="https://v5.getbootstrap.com/docs/5.0/examples/blog/">
 

@@ -144,7 +144,7 @@ width: 74%;
         getData();
         setInterval(function () {
             getData(); 
-        }, 4000);  // it will refresh your data every 1 sec
+        }, 5000);  // it will refresh your data every 1 sec
 
     });
 </script>
